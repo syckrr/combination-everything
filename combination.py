@@ -40,5 +40,5 @@ yazdir(iki,bir,uc,dort,bes)
 yazdir(uc,bir,iki,dort,bes)
 yazdir(dort,bir,iki,uc,bes)
 yazdir(bes,bir,iki,uc,dort)
-print("Islem tamamlandi.\n120 Kombinasyon Yazildi")
+print("Islem tamamlandi.\n120 Kombinasyon Yazildi") #120 numbers if there isn't any same
 
